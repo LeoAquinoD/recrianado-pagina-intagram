@@ -1,2 +1,2 @@
-# recrianado-pagina-intagram
-Projeto para criar a página inicial do Instragram
+# Recriando a página inical do instagram
+Projeto para recriar a página inicial do Instragram
